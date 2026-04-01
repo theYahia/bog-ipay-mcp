@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/bog-ipay-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Bank of Georgia iPay (Georgia)",
+  "version": "1.0.1",
+  "description": "MCP server for Bank of Georgia iPay — payment processing, installments (Georgia)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -44,7 +44,10 @@
     "bank-of-georgia",
     "georgia-api",
     "payments",
-    "typescript"
+    "typescript",
+    "bog-ipay",
+    "api",
+    "banking"
   ],
   "license": "MIT",
   "repository": {
